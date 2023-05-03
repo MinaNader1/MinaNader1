@@ -7,7 +7,7 @@
 
 
 ## 🚀 About Me
-I am a student at the Faculty of Computers and data science, Alexandria Universityr.
+I am a student at the Faculty of Computers and data science, Department of Cyber Security, Alexandria University
 
 
 ## 🛠 Skills
