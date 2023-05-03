@@ -3,11 +3,11 @@
 
 
 ## 🚀 About Me
-I am a student at the Faculty of Computers and data science, Alexandria Universityr...
+I am a student at the Faculty of Computers and data science, Alexandria Universityr.
 
 
 ## 🛠 Skills
-java...
+java.
 
 
 ## 🔗 Links
