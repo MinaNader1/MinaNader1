@@ -11,7 +11,7 @@ I am a student at the Faculty of Computers and data science, Alexandria Universi
 
 
 ## 🛠 Skills
-java.
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 
 
 ## 🔗 Links
